@@ -1,6 +1,7 @@
 # CS221: Artificial Intelligence: Principles and Techniques
 
 course website: https://stanford-cs221.github.io/autumn2019/
+course videos: https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX
 
 ## Overview 
 
